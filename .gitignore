@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# TopWords: large generated test file (*.tmp is already covered above)
+huge.txt
