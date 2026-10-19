@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TopWords": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\manas\\Downloads\\mobydick.txt\""
+    }
+  }
+}
